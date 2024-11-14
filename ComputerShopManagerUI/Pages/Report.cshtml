@@ -1,0 +1,20 @@
+@page
+@model ReportModel
+
+<h2>Generate Report</h2>
+
+<form method="post">
+    <label>Report Type:</label>
+    <select asp-for="ReportType">
+        <option>Weekly</option>
+        <option>Monthly</option>
+        <option>Yearly</option>
+    </select>
+    <button type="submit">Generate Report</button>
+</form>
+
+@if (Model.ReportData != null)
+{
+    <h3>Report Data:</h3>
+    <pre>@Model.ReportData</pre>
+}

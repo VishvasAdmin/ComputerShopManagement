@@ -1,0 +1,17 @@
+E:\Demo\CompleteSolution\SaleManagement\bin\Debug\net8.0\SaleManagement.deps.json
+E:\Demo\CompleteSolution\SaleManagement\bin\Debug\net8.0\SaleManagement.runtimeconfig.json
+E:\Demo\CompleteSolution\SaleManagement\bin\Debug\net8.0\SaleManagement.dll
+E:\Demo\CompleteSolution\SaleManagement\bin\Debug\net8.0\SaleManagement.pdb
+E:\Demo\CompleteSolution\SaleManagement\bin\Debug\net8.0\StockManager.dll
+E:\Demo\CompleteSolution\SaleManagement\bin\Debug\net8.0\StockManager.pdb
+E:\Demo\CompleteSolution\SaleManagement\obj\Debug\net8.0\SaleManagement.csproj.AssemblyReference.cache
+E:\Demo\CompleteSolution\SaleManagement\obj\Debug\net8.0\SaleManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\Demo\CompleteSolution\SaleManagement\obj\Debug\net8.0\SaleManagement.AssemblyInfoInputs.cache
+E:\Demo\CompleteSolution\SaleManagement\obj\Debug\net8.0\SaleManagement.AssemblyInfo.cs
+E:\Demo\CompleteSolution\SaleManagement\obj\Debug\net8.0\SaleManagement.csproj.CoreCompileInputs.cache
+E:\Demo\CompleteSolution\SaleManagement\obj\Debug\net8.0\SaleMana.75E5C939.Up2Date
+E:\Demo\CompleteSolution\SaleManagement\obj\Debug\net8.0\SaleManagement.dll
+E:\Demo\CompleteSolution\SaleManagement\obj\Debug\net8.0\refint\SaleManagement.dll
+E:\Demo\CompleteSolution\SaleManagement\obj\Debug\net8.0\SaleManagement.pdb
+E:\Demo\CompleteSolution\SaleManagement\obj\Debug\net8.0\SaleManagement.genruntimeconfig.cache
+E:\Demo\CompleteSolution\SaleManagement\obj\Debug\net8.0\ref\SaleManagement.dll

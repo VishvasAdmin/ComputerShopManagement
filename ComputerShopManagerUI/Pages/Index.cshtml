@@ -1,0 +1,19 @@
+﻿@page
+@model IndexModel
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Computer Shop Manager</title>
+</head>
+<body>
+    <h1>Welcome to the Computer Shop Manager</h1>
+    <p>Choose an action below:</p>
+
+    <form method="post">
+        <button type="submit" asp-page-handler="GoToStock">Manage Stock</button>
+        <button type="submit" asp-page-handler="GoToSale">Manage Sales</button>
+        <button type="submit" asp-page-handler="GoToReport">Generate Report</button>
+    </form>
+</body>
+</html>

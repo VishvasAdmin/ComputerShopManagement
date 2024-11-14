@@ -1,0 +1,14 @@
+E:\Demo\CompleteSolution\StockManager\bin\Debug\net8.0\StockManager.deps.json
+E:\Demo\CompleteSolution\StockManager\bin\Debug\net8.0\StockManager.runtimeconfig.json
+E:\Demo\CompleteSolution\StockManager\bin\Debug\net8.0\StockManager.dll
+E:\Demo\CompleteSolution\StockManager\bin\Debug\net8.0\StockManager.pdb
+E:\Demo\CompleteSolution\StockManager\obj\Debug\net8.0\StockManager.csproj.AssemblyReference.cache
+E:\Demo\CompleteSolution\StockManager\obj\Debug\net8.0\StockManager.GeneratedMSBuildEditorConfig.editorconfig
+E:\Demo\CompleteSolution\StockManager\obj\Debug\net8.0\StockManager.AssemblyInfoInputs.cache
+E:\Demo\CompleteSolution\StockManager\obj\Debug\net8.0\StockManager.AssemblyInfo.cs
+E:\Demo\CompleteSolution\StockManager\obj\Debug\net8.0\StockManager.csproj.CoreCompileInputs.cache
+E:\Demo\CompleteSolution\StockManager\obj\Debug\net8.0\StockManager.dll
+E:\Demo\CompleteSolution\StockManager\obj\Debug\net8.0\refint\StockManager.dll
+E:\Demo\CompleteSolution\StockManager\obj\Debug\net8.0\StockManager.pdb
+E:\Demo\CompleteSolution\StockManager\obj\Debug\net8.0\StockManager.genruntimeconfig.cache
+E:\Demo\CompleteSolution\StockManager\obj\Debug\net8.0\ref\StockManager.dll

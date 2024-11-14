@@ -1,0 +1,17 @@
+@page
+@model StockModel
+
+<h2>Add Stock Item</h2>
+
+<form method="post">
+    <label>Item Name:</label>
+    <input asp-for="StockItemName" />
+    <label>Quantity:</label>
+    <input asp-for="Quantity" type="number" />
+    <button type="submit">Add Stock</button>
+</form>
+
+@if (Model.Message != null)
+{
+    <p>@Model.Message</p>
+}

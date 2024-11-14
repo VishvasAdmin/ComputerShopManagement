@@ -1,0 +1,14 @@
+E:\Demo\CompleteSolution\ReportGeneration\bin\Debug\net8.0\ReportGeneration.deps.json
+E:\Demo\CompleteSolution\ReportGeneration\bin\Debug\net8.0\ReportGeneration.runtimeconfig.json
+E:\Demo\CompleteSolution\ReportGeneration\bin\Debug\net8.0\ReportGeneration.dll
+E:\Demo\CompleteSolution\ReportGeneration\bin\Debug\net8.0\ReportGeneration.pdb
+E:\Demo\CompleteSolution\ReportGeneration\obj\Debug\net8.0\ReportGeneration.csproj.AssemblyReference.cache
+E:\Demo\CompleteSolution\ReportGeneration\obj\Debug\net8.0\ReportGeneration.GeneratedMSBuildEditorConfig.editorconfig
+E:\Demo\CompleteSolution\ReportGeneration\obj\Debug\net8.0\ReportGeneration.AssemblyInfoInputs.cache
+E:\Demo\CompleteSolution\ReportGeneration\obj\Debug\net8.0\ReportGeneration.AssemblyInfo.cs
+E:\Demo\CompleteSolution\ReportGeneration\obj\Debug\net8.0\ReportGeneration.csproj.CoreCompileInputs.cache
+E:\Demo\CompleteSolution\ReportGeneration\obj\Debug\net8.0\ReportGeneration.dll
+E:\Demo\CompleteSolution\ReportGeneration\obj\Debug\net8.0\refint\ReportGeneration.dll
+E:\Demo\CompleteSolution\ReportGeneration\obj\Debug\net8.0\ReportGeneration.pdb
+E:\Demo\CompleteSolution\ReportGeneration\obj\Debug\net8.0\ReportGeneration.genruntimeconfig.cache
+E:\Demo\CompleteSolution\ReportGeneration\obj\Debug\net8.0\ref\ReportGeneration.dll
