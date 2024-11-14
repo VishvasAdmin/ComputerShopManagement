@@ -300,3 +300,8 @@ Copy code
     "saleDate": "2023-01-01T10:00:00"
 }
 This should successfully insert records into ComputerShopManager.db.
+
+
+dotnet add package RhinoMocks
+dotnet add package xunit
+dotnet add package xunit.runner.visualstudio
