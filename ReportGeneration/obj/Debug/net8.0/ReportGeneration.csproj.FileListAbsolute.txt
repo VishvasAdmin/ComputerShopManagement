@@ -7,6 +7,7 @@ E:\Demo\CompleteSolution\ReportGeneration\obj\Debug\net8.0\ReportGeneration.Gene
 E:\Demo\CompleteSolution\ReportGeneration\obj\Debug\net8.0\ReportGeneration.AssemblyInfoInputs.cache
 E:\Demo\CompleteSolution\ReportGeneration\obj\Debug\net8.0\ReportGeneration.AssemblyInfo.cs
 E:\Demo\CompleteSolution\ReportGeneration\obj\Debug\net8.0\ReportGeneration.csproj.CoreCompileInputs.cache
+E:\Demo\CompleteSolution\ReportGeneration\obj\Debug\net8.0\ReportGeneration.sourcelink.json
 E:\Demo\CompleteSolution\ReportGeneration\obj\Debug\net8.0\ReportGeneration.dll
 E:\Demo\CompleteSolution\ReportGeneration\obj\Debug\net8.0\refint\ReportGeneration.dll
 E:\Demo\CompleteSolution\ReportGeneration\obj\Debug\net8.0\ReportGeneration.pdb

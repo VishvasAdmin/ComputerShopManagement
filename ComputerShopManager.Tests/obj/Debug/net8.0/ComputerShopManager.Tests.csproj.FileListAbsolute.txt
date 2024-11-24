@@ -143,3 +143,4 @@ E:\Demo\CompleteSolution\ComputerShopManager.Tests\obj\Debug\net8.0\refint\Compu
 E:\Demo\CompleteSolution\ComputerShopManager.Tests\obj\Debug\net8.0\ComputerShopManager.Tests.pdb
 E:\Demo\CompleteSolution\ComputerShopManager.Tests\obj\Debug\net8.0\ComputerShopManager.Tests.genruntimeconfig.cache
 E:\Demo\CompleteSolution\ComputerShopManager.Tests\obj\Debug\net8.0\ref\ComputerShopManager.Tests.dll
+E:\Demo\CompleteSolution\ComputerShopManager.Tests\obj\Debug\net8.0\ComputerShopManager.Tests.sourcelink.json

@@ -28,6 +28,7 @@ E:\Demo\CompleteSolution\ComputerShopManagerUI\obj\Debug\net8.0\ComputerShopMana
 E:\Demo\CompleteSolution\ComputerShopManagerUI\obj\Debug\net8.0\ComputerShopManagerUI.MvcApplicationPartsAssemblyInfo.cache
 E:\Demo\CompleteSolution\ComputerShopManagerUI\obj\Debug\net8.0\ComputerShopManagerUI.RazorAssemblyInfo.cache
 E:\Demo\CompleteSolution\ComputerShopManagerUI\obj\Debug\net8.0\ComputerShopManagerUI.RazorAssemblyInfo.cs
+E:\Demo\CompleteSolution\ComputerShopManagerUI\obj\Debug\net8.0\ComputerShopManagerUI.sourcelink.json
 E:\Demo\CompleteSolution\ComputerShopManagerUI\obj\Debug\net8.0\staticwebassets.build.json
 E:\Demo\CompleteSolution\ComputerShopManagerUI\obj\Debug\net8.0\staticwebassets.development.json
 E:\Demo\CompleteSolution\ComputerShopManagerUI\obj\Debug\net8.0\staticwebassets\msbuild.ComputerShopManagerUI.Microsoft.AspNetCore.StaticWebAssets.props

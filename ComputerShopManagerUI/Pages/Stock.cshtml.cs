@@ -15,13 +15,16 @@ public class StockModel : PageModel
     
     [BindProperty]
     public int Quantity { get; set; }
+
+    [BindProperty]
+    public double Price{get;set;}
     
     public string Message { get; set; }
 
     public async Task<IActionResult> OnPostAsync()
     {
         var client = _clientFactory.CreateClient("ComputerShopAPI");
-        var stockItem = new { StockItemName, Quantity };
+        var stockItem = new { StockItemName, Quantity, Price};
         var content = new StringContent(JsonSerializer.Serialize(stockItem), Encoding.UTF8, "application/json");
 
         var response = await client.PostAsync("/api/Stock/add", content);

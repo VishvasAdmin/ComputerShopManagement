@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Demo\\CompleteSolution\\ComputerShopManager\\ComputerShopManager.csproj": {}
+    "e:\\Demo\\CompleteSolution\\ComputerShopManager\\ComputerShopManager.csproj": {}
   },
   "projects": {
-    "E:\\Demo\\CompleteSolution\\ComputerShopManager\\ComputerShopManager.csproj": {
+    "e:\\Demo\\CompleteSolution\\ComputerShopManager\\ComputerShopManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Demo\\CompleteSolution\\ComputerShopManager\\ComputerShopManager.csproj",
+        "projectUniqueName": "e:\\Demo\\CompleteSolution\\ComputerShopManager\\ComputerShopManager.csproj",
         "projectName": "ComputerShopManager",
-        "projectPath": "E:\\Demo\\CompleteSolution\\ComputerShopManager\\ComputerShopManager.csproj",
+        "projectPath": "e:\\Demo\\CompleteSolution\\ComputerShopManager\\ComputerShopManager.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "E:\\Demo\\CompleteSolution\\ComputerShopManager\\obj\\",
+        "outputPath": "e:\\Demo\\CompleteSolution\\ComputerShopManager\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,14 +26,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Demo\\CompleteSolution\\ReportGeneration\\ReportGeneration.csproj": {
-                "projectPath": "E:\\Demo\\CompleteSolution\\ReportGeneration\\ReportGeneration.csproj"
+              "e:\\Demo\\CompleteSolution\\ReportGeneration\\ReportGeneration.csproj": {
+                "projectPath": "e:\\Demo\\CompleteSolution\\ReportGeneration\\ReportGeneration.csproj"
               },
               "E:\\Demo\\CompleteSolution\\SaleManagement\\SaleManagement.csproj": {
                 "projectPath": "E:\\Demo\\CompleteSolution\\SaleManagement\\SaleManagement.csproj"
               },
-              "E:\\Demo\\CompleteSolution\\StockManager\\StockManager.csproj": {
-                "projectPath": "E:\\Demo\\CompleteSolution\\StockManager\\StockManager.csproj"
+              "e:\\Demo\\CompleteSolution\\StockManager\\StockManager.csproj": {
+                "projectPath": "e:\\Demo\\CompleteSolution\\StockManager\\StockManager.csproj"
               }
             }
           }
@@ -89,14 +89,14 @@
         }
       }
     },
-    "E:\\Demo\\CompleteSolution\\ReportGeneration\\ReportGeneration.csproj": {
+    "e:\\Demo\\CompleteSolution\\ReportGeneration\\ReportGeneration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Demo\\CompleteSolution\\ReportGeneration\\ReportGeneration.csproj",
+        "projectUniqueName": "e:\\Demo\\CompleteSolution\\ReportGeneration\\ReportGeneration.csproj",
         "projectName": "ReportGeneration",
-        "projectPath": "E:\\Demo\\CompleteSolution\\ReportGeneration\\ReportGeneration.csproj",
+        "projectPath": "e:\\Demo\\CompleteSolution\\ReportGeneration\\ReportGeneration.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "E:\\Demo\\CompleteSolution\\ReportGeneration\\obj\\",
+        "outputPath": "e:\\Demo\\CompleteSolution\\ReportGeneration\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -175,8 +175,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Demo\\CompleteSolution\\StockManager\\StockManager.csproj": {
-                "projectPath": "E:\\Demo\\CompleteSolution\\StockManager\\StockManager.csproj"
+              "e:\\Demo\\CompleteSolution\\StockManager\\StockManager.csproj": {
+                "projectPath": "e:\\Demo\\CompleteSolution\\StockManager\\StockManager.csproj"
               }
             }
           }
@@ -215,14 +215,14 @@
         }
       }
     },
-    "E:\\Demo\\CompleteSolution\\StockManager\\StockManager.csproj": {
+    "e:\\Demo\\CompleteSolution\\StockManager\\StockManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Demo\\CompleteSolution\\StockManager\\StockManager.csproj",
+        "projectUniqueName": "e:\\Demo\\CompleteSolution\\StockManager\\StockManager.csproj",
         "projectName": "StockManager",
-        "projectPath": "E:\\Demo\\CompleteSolution\\StockManager\\StockManager.csproj",
+        "projectPath": "e:\\Demo\\CompleteSolution\\StockManager\\StockManager.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "E:\\Demo\\CompleteSolution\\StockManager\\obj\\",
+        "outputPath": "e:\\Demo\\CompleteSolution\\StockManager\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config"

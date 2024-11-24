@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Demo\\CompleteSolution\\ReportGeneration\\ReportGeneration.csproj": {}
+    "e:\\Demo\\CompleteSolution\\ReportGeneration\\ReportGeneration.csproj": {}
   },
   "projects": {
-    "E:\\Demo\\CompleteSolution\\ReportGeneration\\ReportGeneration.csproj": {
+    "e:\\Demo\\CompleteSolution\\ReportGeneration\\ReportGeneration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Demo\\CompleteSolution\\ReportGeneration\\ReportGeneration.csproj",
+        "projectUniqueName": "e:\\Demo\\CompleteSolution\\ReportGeneration\\ReportGeneration.csproj",
         "projectName": "ReportGeneration",
-        "projectPath": "E:\\Demo\\CompleteSolution\\ReportGeneration\\ReportGeneration.csproj",
+        "projectPath": "e:\\Demo\\CompleteSolution\\ReportGeneration\\ReportGeneration.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "E:\\Demo\\CompleteSolution\\ReportGeneration\\obj\\",
+        "outputPath": "e:\\Demo\\CompleteSolution\\ReportGeneration\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config"

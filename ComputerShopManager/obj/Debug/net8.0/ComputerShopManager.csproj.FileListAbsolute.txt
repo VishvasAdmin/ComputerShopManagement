@@ -1,10 +1,3 @@
-E:\Demo\CompleteSolution\ComputerShopManager\obj\Debug\net8.0\ComputerShopManager.csproj.AssemblyReference.cache
-E:\Demo\CompleteSolution\ComputerShopManager\obj\Debug\net8.0\ComputerShopManager.GeneratedMSBuildEditorConfig.editorconfig
-E:\Demo\CompleteSolution\ComputerShopManager\obj\Debug\net8.0\ComputerShopManager.AssemblyInfoInputs.cache
-E:\Demo\CompleteSolution\ComputerShopManager\obj\Debug\net8.0\ComputerShopManager.AssemblyInfo.cs
-E:\Demo\CompleteSolution\ComputerShopManager\obj\Debug\net8.0\ComputerShopManager.csproj.CoreCompileInputs.cache
-E:\Demo\CompleteSolution\ComputerShopManager\obj\Debug\net8.0\ComputerShopManager.MvcApplicationPartsAssemblyInfo.cs
-E:\Demo\CompleteSolution\ComputerShopManager\obj\Debug\net8.0\ComputerShopManager.MvcApplicationPartsAssemblyInfo.cache
 E:\Demo\CompleteSolution\ComputerShopManager\bin\Debug\net8.0\appsettings.Development.json
 E:\Demo\CompleteSolution\ComputerShopManager\bin\Debug\net8.0\appsettings.json
 E:\Demo\CompleteSolution\ComputerShopManager\bin\Debug\net8.0\ComputerShopManager.exe
@@ -49,6 +42,14 @@ E:\Demo\CompleteSolution\ComputerShopManager\bin\Debug\net8.0\StockManager.dll
 E:\Demo\CompleteSolution\ComputerShopManager\bin\Debug\net8.0\StockManager.pdb
 E:\Demo\CompleteSolution\ComputerShopManager\bin\Debug\net8.0\SaleManagement.pdb
 E:\Demo\CompleteSolution\ComputerShopManager\bin\Debug\net8.0\ReportGeneration.pdb
+E:\Demo\CompleteSolution\ComputerShopManager\obj\Debug\net8.0\ComputerShopManager.csproj.AssemblyReference.cache
+E:\Demo\CompleteSolution\ComputerShopManager\obj\Debug\net8.0\ComputerShopManager.GeneratedMSBuildEditorConfig.editorconfig
+E:\Demo\CompleteSolution\ComputerShopManager\obj\Debug\net8.0\ComputerShopManager.AssemblyInfoInputs.cache
+E:\Demo\CompleteSolution\ComputerShopManager\obj\Debug\net8.0\ComputerShopManager.AssemblyInfo.cs
+E:\Demo\CompleteSolution\ComputerShopManager\obj\Debug\net8.0\ComputerShopManager.csproj.CoreCompileInputs.cache
+E:\Demo\CompleteSolution\ComputerShopManager\obj\Debug\net8.0\ComputerShopManager.MvcApplicationPartsAssemblyInfo.cs
+E:\Demo\CompleteSolution\ComputerShopManager\obj\Debug\net8.0\ComputerShopManager.MvcApplicationPartsAssemblyInfo.cache
+E:\Demo\CompleteSolution\ComputerShopManager\obj\Debug\net8.0\ComputerShopManager.sourcelink.json
 E:\Demo\CompleteSolution\ComputerShopManager\obj\Debug\net8.0\staticwebassets.build.json
 E:\Demo\CompleteSolution\ComputerShopManager\obj\Debug\net8.0\staticwebassets.development.json
 E:\Demo\CompleteSolution\ComputerShopManager\obj\Debug\net8.0\staticwebassets\msbuild.ComputerShopManager.Microsoft.AspNetCore.StaticWebAssets.props

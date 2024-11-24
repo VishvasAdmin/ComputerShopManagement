@@ -9,6 +9,7 @@ E:\Demo\CompleteSolution\SaleManagement\obj\Debug\net8.0\SaleManagement.Generate
 E:\Demo\CompleteSolution\SaleManagement\obj\Debug\net8.0\SaleManagement.AssemblyInfoInputs.cache
 E:\Demo\CompleteSolution\SaleManagement\obj\Debug\net8.0\SaleManagement.AssemblyInfo.cs
 E:\Demo\CompleteSolution\SaleManagement\obj\Debug\net8.0\SaleManagement.csproj.CoreCompileInputs.cache
+E:\Demo\CompleteSolution\SaleManagement\obj\Debug\net8.0\SaleManagement.sourcelink.json
 E:\Demo\CompleteSolution\SaleManagement\obj\Debug\net8.0\SaleMana.75E5C939.Up2Date
 E:\Demo\CompleteSolution\SaleManagement\obj\Debug\net8.0\SaleManagement.dll
 E:\Demo\CompleteSolution\SaleManagement\obj\Debug\net8.0\refint\SaleManagement.dll

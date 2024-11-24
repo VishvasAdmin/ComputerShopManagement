@@ -1,19 +1,33 @@
 ﻿@page
 @model IndexModel
+@{
+    ViewData["Title"] = "Computer Shop Manager";
+}
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
     <title>Computer Shop Manager</title>
 </head>
 <body>
-    <h1>Welcome to the Computer Shop Manager</h1>
-    <p>Choose an action below:</p>
+    <div class="container text-center mt-5">
+        <h1 class="mb-4">Welcome to the Computer Shop Manager</h1>
+        <p class="text-muted mb-4">Choose an action below to manage your shop efficiently.</p>
 
-    <form method="post">
-        <button type="submit" asp-page-handler="GoToStock">Manage Stock</button>
-        <button type="submit" asp-page-handler="GoToSale">Manage Sales</button>
-        <button type="submit" asp-page-handler="GoToReport">Generate Report</button>
-    </form>
+        <div class="row justify-content-center">
+            <div class="col-md-4">
+                <form method="post" class="d-grid gap-3">
+                    <button type="submit" asp-page-handler="GoToStock" class="btn btn-primary btn-lg">Manage Stock</button>
+                    <button type="submit" asp-page-handler="GoToSale" class="btn btn-success btn-lg">Manage Sales</button>
+                    <button type="submit" asp-page-handler="GoToReport" class="btn btn-info btn-lg text-white">Generate Report</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
