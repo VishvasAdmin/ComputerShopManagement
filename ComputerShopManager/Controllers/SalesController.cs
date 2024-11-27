@@ -15,7 +15,7 @@ namespace ComputerShopManager.Controllers
         [HttpPost("query")]
         public async Task<IActionResult> ExecuteQuery([FromBody] QueryRequest queryRequest)
         {
-            List<SaleTransaction> transactions = new List<SaleTransaction>();
+            List<SaleTransaction1> transactions = new List<SaleTransaction1>();
             string query = queryRequest.Query;
 
             using (var connection = new SQLiteConnection(_connectionString))
@@ -28,12 +28,12 @@ namespace ComputerShopManager.Controllers
                     {
                         while (await reader.ReadAsync())
                         {
-                            var transaction = new SaleTransaction
+                            var transaction = new SaleTransaction1
                             {
-                                Id = reader.GetInt32(0),
-                                StockItemId = reader.GetInt32(1),
-                                Quantity = reader.GetInt32(2),
-                                SaleDate = reader.GetDateTime(3),
+                                Id = Convert.ToInt32(reader["Id"]),
+                                Name = reader["Name"].ToString(),
+                                Quantity =Convert.ToInt32(reader["Quantity"]),
+                                Price = Convert.ToDouble(reader["Price"])
                             };
                             transactions.Add(transaction);
                         }
@@ -48,5 +48,12 @@ namespace ComputerShopManager.Controllers
     public class QueryRequest
     {
         public string Query { get; set; }
+    }
+    public class SaleTransaction1
+    {
+        public int Id { get; set; }
+        public String Name { get; set; }
+        public int Quantity { get; set; }
+        public Double Price { get; set; }
     }
 }

@@ -28,7 +28,7 @@ var response = await client.GetAsync(url);
         if (response.IsSuccessStatusCode)
             ReportData = await response.Content.ReadAsStringAsync();
         else
-            ReportData = "Failed to fetch report.";
+            ReportData = "Failed to fetch report1.";
 
         return Page();
     }
