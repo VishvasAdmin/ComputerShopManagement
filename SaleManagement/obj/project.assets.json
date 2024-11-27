@@ -1257,8 +1257,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "e:\\Demo\\CompleteSolution\\StockManager\\StockManager.csproj": {
-              "projectPath": "e:\\Demo\\CompleteSolution\\StockManager\\StockManager.csproj"
+            "E:\\Demo\\CompleteSolution\\StockManager\\StockManager.csproj": {
+              "projectPath": "E:\\Demo\\CompleteSolution\\StockManager\\StockManager.csproj"
             }
           }
         }

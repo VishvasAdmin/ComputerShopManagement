@@ -1,7 +1,7 @@
 using Rhino.Mocks;
 using Xunit;
-using StockManager.Services; // Replace with your actual namespace
-using StockManager.Models; // Replace with your actual namespace
+using StockManager.Services; 
+using StockManager.Models; 
 
 public class StockServiceTests
 {
@@ -64,5 +64,9 @@ public class StockServiceTests
         // Assert
         Assert.False(result);
         _mockStockRepository.AssertWasNotCalled(x => x.Save(Arg<StockItem>.Is.Anything)); // Save should not be called
+    }
+
+    private interface IStockRepository
+    {
     }
 }

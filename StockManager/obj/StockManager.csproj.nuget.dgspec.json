@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\Demo\\CompleteSolution\\StockManager\\StockManager.csproj": {}
+    "E:\\Demo\\CompleteSolution\\StockManager\\StockManager.csproj": {}
   },
   "projects": {
-    "e:\\Demo\\CompleteSolution\\StockManager\\StockManager.csproj": {
+    "E:\\Demo\\CompleteSolution\\StockManager\\StockManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Demo\\CompleteSolution\\StockManager\\StockManager.csproj",
+        "projectUniqueName": "E:\\Demo\\CompleteSolution\\StockManager\\StockManager.csproj",
         "projectName": "StockManager",
-        "projectPath": "e:\\Demo\\CompleteSolution\\StockManager\\StockManager.csproj",
+        "projectPath": "E:\\Demo\\CompleteSolution\\StockManager\\StockManager.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "e:\\Demo\\CompleteSolution\\StockManager\\obj\\",
+        "outputPath": "E:\\Demo\\CompleteSolution\\StockManager\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config"

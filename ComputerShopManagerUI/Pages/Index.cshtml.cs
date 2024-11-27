@@ -22,5 +22,11 @@ namespace ComputerShopManagerUI.Pages
             // Redirects to Report generation page
             return RedirectToPage("/Report");
         }
+
+        public IActionResult OnPostGoToSearch()
+        {
+            // Redirects to Search page
+            return RedirectToPage("/Search");
+        }
     }
 }
