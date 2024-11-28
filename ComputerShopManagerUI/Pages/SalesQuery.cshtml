@@ -4,7 +4,39 @@
     ViewData["Title"] = "Sales Query";
 }
 <html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Query Creator</title>
+     <script>
+        function constructQueryAndSubmit(event) {
+            event.preventDefault(); // Prevent default form submission
 
+            // Get the input value
+            const queryInput = document.getElementById("Query1").value.trim();
+
+            // Validate the input
+            if (!queryInput) {
+
+            // Construct the query
+            const constructedQuery = `SELECT * FROM StockItem`;
+
+            // Update the hidden input to send the query
+            const hiddenQueryInput =  document.getElementById("Query");
+            hiddenQueryInput.value = constructedQuery;
+            }
+            else{
+                const constructedQuery = `SELECT * FROM StockItem WHERE Name='${queryInput}'`;
+
+            // Update the hidden input to send the query
+            const hiddenQueryInput =  document.getElementById("Query");
+            hiddenQueryInput.value = constructedQuery;
+            }
+            // Submit the form
+            document.getElementById("queryForm").submit();
+        }
+    </script>
+</head>
 <body>
     <div class="container mt-5">
         <div class="row">
@@ -14,15 +46,17 @@
 
 
 
-                <form method="post" class="card p-4 shadow-sm">
-                    <label for="Query">Enter SQL Query:</label><br />
-                    <textarea id="Query" name="Query" rows="4" cols="50"
-                        placeholder="SELECT * FROM StockItem WHERE Name = 'Laptop';"></textarea><br /><br />
-
+                <form method="post" class="card p-4 shadow-sm" id="queryForm" onsubmit="constructQueryAndSubmit(event)">
+                    <label for="Query1">Enter StockItem Name:</label><br />
+                    <input type="text" id="Query1" name="Query1">
+                   <br /><br />
+                    <input type="hidden" id="Query" name="Query" />
                     <div class="d-grid">
                         <button type="submit" class="btn btn-primary">Execute Query</button>
                     </div>
                 </form>
+
+        
 
                 <h3>Results</h3>
                 <div id="results">@Model.Message</div>
